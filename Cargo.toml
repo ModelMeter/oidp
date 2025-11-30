@@ -1,0 +1,9 @@
+[package]
+name = "oidp"
+version = "0.1.0"
+edition = "2024"
+description = "Roll your own OpenID Identity Provider (OIDP)"
+license = "MIT"
+license-file = "LICENSE.txt"
+
+[dependencies]
